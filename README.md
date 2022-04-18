@@ -1,2 +1,6 @@
 ### Hi there 👋
-[![Prohacker's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhkHacker&show_icons=true&layout=compact&theme=dark)](https://github.com/PhkHackerPhkHacker)
+- 🔭 I’m currently working on Pn_Arcs
+- 🌱 I’m currently learning AWS Cloud
+- 📫 How to reach me: https://discord.com/channels/@me/879835321460740158
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have no Life
