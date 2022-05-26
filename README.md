@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Pn_Arcs
-- 🌱 I’m currently learning AWS Cloud
-- 📫 How to reach me: https://discord.com/channels/@me/879835321460740158
+- 🔭 I’m currently working on Cloud Database
+- 🌱 I’m currently learning AWS Cloud | School :C
+- 📫 How to reach me: You can't in am dead but Alive
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have no Life
 
